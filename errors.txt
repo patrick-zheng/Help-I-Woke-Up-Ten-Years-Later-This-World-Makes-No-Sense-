@@ -1,0 +1,46 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 498: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 502: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 506: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 510: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 514: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 518: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 522: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 526: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 530: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+File "game/script.rpy", line 534: expected statement.
+    renpy.pause(10.0)
+                     ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sun Nov 20 00:56:38 2022
