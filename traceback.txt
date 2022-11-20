@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 624, in script
+    show masktrash ypos 0.3
+Exception: Image 'masktrash' does not accept attributes 'ypos 0 .3'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 624, in script
+    show masktrash ypos 0.3
+  File "C:\Users\patri\OneDrive\Desktop\renpy-8.0.3-sdk\renpy\ast.py", line 1408, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "C:\Users\patri\OneDrive\Desktop\renpy-8.0.3-sdk\renpy\ast.py", line 1371, in show_imspec
+    renpy.config.show(name,
+  File "C:\Users\patri\OneDrive\Desktop\renpy-8.0.3-sdk\renpy\exports.py", line 686, in show
+    if not base.find_target() and renpy.config.missing_show:
+  File "C:\Users\patri\OneDrive\Desktop\renpy-8.0.3-sdk\renpy\display\image.py", line 414, in find_target
+    self.target = target._duplicate(a)
+  File "C:\Users\patri\OneDrive\Desktop\renpy-8.0.3-sdk\renpy\display\core.py", line 397, in _duplicate
+    args.extraneous()
+  File "C:\Users\patri\OneDrive\Desktop\renpy-8.0.3-sdk\renpy\display\core.py", line 265, in extraneous
+    raise Exception("Image '{}' does not accept attributes '{}'.".format(
+Exception: Image 'masktrash' does not accept attributes 'ypos 0 .3'.
+
+Windows-10-10.0.22621 AMD64
+Ren'Py 8.0.3.22090809
+Help I Woke Up Ten Years and This World Makes No Sense Anymore 1.0
+Sun Nov 20 05:00:11 2022
