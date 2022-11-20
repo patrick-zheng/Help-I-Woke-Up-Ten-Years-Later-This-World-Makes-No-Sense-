@@ -4,8 +4,10 @@ https://drive.google.com/drive/folders/1-iYMpTwTLZ9PZiF5UCbFMTMAcdyq4I_s?usp=sha
 
 Alternatively, to run the game on Renpy, go to https://www.renpy.org/ and download the latest version. Then, download this GitHub repo and run it as a project in Renpy.
 
+Made in Renpy.
+
 Team Big Oh No!
 
-Members: Darren Tao, Patrick Zheng, YuMeng Liu
+Authors: Darren Tao, Patrick Zheng, YuMeng Liu
 
 For CodeJam 12
